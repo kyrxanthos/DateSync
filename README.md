@@ -34,6 +34,8 @@ git clone https://github.com/kyrxanthos/dateSync.git
 python date_change_script.py /path/to/directory1 /path/to/directory2 ...
 ```
 
+**Important: Make sure the directory name follows the format "YYYY-MM-DD <name_of_dir>"**
+
 
 4. **Result**: The script will iterate through each provided directory, extract the date from the directory name, and update the last modified date of each file within the directory accordingly.
 
