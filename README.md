@@ -21,7 +21,7 @@ This repository hosts a script crafted to adjust the last modified date of files
 - You can either clone this repository with:
 
 ```shell
-git clone https://github.com/kyrxanthos/datesync.git
+git clone https://github.com/kyrxanthos/dateSync.git
 ```
 
 - Alternatively, you can download the repository as a ZIP file by clicking on the "Code" button and selecting "Download ZIP" from the dropdown menu.
