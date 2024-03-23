@@ -10,7 +10,7 @@ This repository hosts a script crafted to adjust the last modified date of files
 ## Demo
 
 <p align="center">
-  <img src="demo.gif" alt="Logo" width="500"/>
+  <img src="original_demo.gif" alt="Logo" width="800"/>
 </p>
 
 
